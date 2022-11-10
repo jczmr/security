@@ -1,0 +1,3 @@
+DATABASE	USER	PASSWORD	HOST	PORT	OBS
+Customers	joe	pass	localhost	1575	testing DB for store customers related info
+payments	peter	pass	localhost	1525	2nd testing DB for payments info
